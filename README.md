@@ -5,6 +5,12 @@ Quick and dirty `mocha-starter` project
 - Uses standard node `assert` assertion tool
   - You can easily override this to use `chai`
 
+## Setup
+
+- clone archive
+  - `$ git clone https://github.com/mikeerickson/mocha-starter.git`
+  - `$ npm install` (or if you are a `yarn`)
+  - `$ test`
   
 ## Credits
 
