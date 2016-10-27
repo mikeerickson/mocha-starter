@@ -4,9 +4,15 @@
   "description": "A simple mocha starter",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "./node_modules/.bin/mocha"
   },
-  "keywords": ["mocha","test","starter","node","tdd"],
+  "keywords": [
+    "mocha",
+    "test",
+    "starter",
+    "node",
+    "tdd"
+  ],
   "author": "Mike Erickson <codedungeon@gmail.com>",
   "license": "MIT",
   "reveal": true,
