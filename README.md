@@ -1,8 +1,14 @@
 # mocha-starter
 
+Quick and dirty `mocha-starter` project
+
+- Uses standard node `assert` assertion tool
+  - You can easily override this to use `chai`
+
+  
 ## Credits
 
-angular-sandbox written by Mike Erickson
+mocha-starter written by Mike Erickson
 
 E-Mail: [codedungeon@gmail.com](mailto:codedungeon@gmail.com)
 
