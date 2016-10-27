@@ -1,14 +1,15 @@
 {
-  "name": "testing",
+  "name": "mocha-starter",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple mocha starter",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ['mocha','test','starter','node','tdd'],
+  "author": "Mike Erickson <codedungeon@gmail.com>",
+  "license": "MIT",
+  "reveal": true,
   "devDependencies": {
     "mocha": "^3.1.2"
   }

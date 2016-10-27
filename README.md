@@ -9,9 +9,11 @@ Quick and dirty `mocha-starter` project
 
 - clone archive
   - `$ git clone https://github.com/mikeerickson/mocha-starter.git`
-  - `$ npm install` (or if you are a `yarn`)
-  - `$ test`
-  
+- install dependencies (mocha)
+  - `$ npm install` (or if you are a yarner `yarn`)
+- run tests
+  - `$ test` or `npm test`
+
 ## Credits
 
 mocha-starter written by Mike Erickson
