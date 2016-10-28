@@ -4,6 +4,7 @@
   "description": "A simple mocha starter",
   "main": "index.js",
   "scripts": {
+    "eslint": "eslint \"*/**/*.js\"",
     "test": "./node_modules/.bin/mocha"
   },
   "keywords": [
@@ -17,6 +18,7 @@
   "license": "MIT",
   "reveal": true,
   "devDependencies": {
+    "atom-ui-reporter": "0.0.1",
     "mocha": "^3.1.2"
   }
 }
